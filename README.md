@@ -1,3 +1,7 @@
+<p align="left">
+<img width="70%" height="40%" src="https://github.com/mitxael/pingpong-xplat/blob/master/screenshot_pingpong-xplat.png">
+</p>
+
     ***************************************************************************************
     * Abstract:   Network ping-pong with support for Windows/Linux/MacOS
     * Uses:       This library has been compiled with C11.
